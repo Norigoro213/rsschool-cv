@@ -12,7 +12,26 @@ High school student. I want to learn new things and develop new (especially dema
 * KA little bit of CSS/HTML
 * Python
 * JS (Only basic things)
-* kind of Soft Skills
-    * Teamwork
-    * Communication
-    * Conflict Resolution
+* Kind of Soft Skills
+    * Teamwork
+    * Communication
+    * Conflict Resolution
+====
+#### Code Example
+```javascript
+function multiply(a, b){
+  return a*b
+}
+```
+====
+#### Work Exp
+NONE
+===
+#### Education
+* Educational institutions
+    * Humanitarian Gymnasium
+    * Classical Lyceum (Mathematical profile) - currently in the 11th grade
+* Curses
+    * IT Step Academy Course for Teenagers
+    * IT Step Summer Camp
+    * JS/FE-Preschool-2023q2
