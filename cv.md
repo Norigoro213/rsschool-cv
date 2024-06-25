@@ -9,7 +9,7 @@
 ##### High school student. I want to learn new things and develop new (especially demanded) skills. This is not my first time on this course, I love programming honestly. And socializing too.
 ----
 #### Skills
-* KA little bit of CSS/HTML
+* A little bit of CSS/HTML
 * Python
 * JS (Only basic things)
 * Kind of Soft Skills
@@ -35,3 +35,6 @@ function multiply(a, b){
   * IT Step Academy Course for Teenagers
   * IT Step Summer Camp
   * JS/FE-Preschool-2023q2
+----
+#### English
+__B1__
