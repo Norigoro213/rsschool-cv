@@ -1,13 +1,19 @@
 # Nick: Norigoro
 ### Age: 16
------
+
+===
+
 #### My Contacts
 * Discord (n0rii)
 * Github (Norigoro213)
-----
+
+===
+
 #### About me
 ##### High school student. I want to learn new things and develop new (especially demanded) skills. This is not my first time on this course, I love programming honestly. And socializing too.
-----
+
+===
+
 #### Skills
 * A little bit of CSS/HTML
 * Python
@@ -16,17 +22,23 @@
   * Teamwork
   * Communication
   * Conflict Resolution
-----
+
+===
+
 #### Code Example
 ```javascript
 function multiply(a, b){
   return a*b
 }
 ```
-----
+
+===
+
 #### Work Exp
 ##### NONE
-----
+
+===
+
 #### Education
 * Educational institutions
   * Humanitarian Gymnasium
@@ -35,6 +47,9 @@ function multiply(a, b){
   * IT Step Academy Course for Teenagers
   * IT Step Summer Camp
   * JS/FE-Preschool-2023q2
-----
+
+===
+
 #### English
-__B1__
+__B1__ (But I do my best to learn other languages - German and Ukrainian)
+**Russian** (Native)
